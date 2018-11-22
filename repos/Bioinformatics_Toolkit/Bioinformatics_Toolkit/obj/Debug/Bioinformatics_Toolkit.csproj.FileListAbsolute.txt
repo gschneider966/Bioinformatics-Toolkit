@@ -1,0 +1,7 @@
+C:\Users\Gschn\source\repos\Bioinformatics_Toolkit\Bioinformatics_Toolkit\bin\Debug\Bioinformatics_Toolkit.exe.config
+C:\Users\Gschn\source\repos\Bioinformatics_Toolkit\Bioinformatics_Toolkit\bin\Debug\Bioinformatics_Toolkit.exe
+C:\Users\Gschn\source\repos\Bioinformatics_Toolkit\Bioinformatics_Toolkit\bin\Debug\Bioinformatics_Toolkit.pdb
+C:\Users\Gschn\source\repos\Bioinformatics_Toolkit\Bioinformatics_Toolkit\obj\Debug\Bioinformatics_Toolkit.csprojAssemblyReference.cache
+C:\Users\Gschn\source\repos\Bioinformatics_Toolkit\Bioinformatics_Toolkit\obj\Debug\Bioinformatics_Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\Gschn\source\repos\Bioinformatics_Toolkit\Bioinformatics_Toolkit\obj\Debug\Bioinformatics_Toolkit.exe
+C:\Users\Gschn\source\repos\Bioinformatics_Toolkit\Bioinformatics_Toolkit\obj\Debug\Bioinformatics_Toolkit.pdb
